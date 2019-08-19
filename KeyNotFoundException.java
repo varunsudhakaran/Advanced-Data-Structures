@@ -1,5 +1,5 @@
 /**
- * Checked exception thrown when a non existent key is specified for get or remove.
+ * Checked exception thrown when a non existent key is specified for get.
  */
 @SuppressWarnings("serial")
 public class KeyNotFoundException extends Exception {
